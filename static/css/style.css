@@ -1,0 +1,23 @@
+.jumbotron h1 {
+    color:aliceblue
+}
+
+.jumbotron p {
+    color:aliceblue
+}
+
+.white-text h2 {
+    color: aliceblue;
+}
+
+.aliceblue-text p {
+    color: aliceblue;
+}
+
+.col-md-12 p {
+    color:  rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(94, 110, 48);
+}
